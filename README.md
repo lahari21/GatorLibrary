@@ -18,9 +18,3 @@ made by the patrons.
 4. Run the below command to give input to the project in a text file.
 > `java gatorLibrary input.txt`
 5. The output will get stored in another text file named <input>_output_file.txt
-
-### Input Example:
-> Input.txt contains input in the below format.
- ![image](https://github.com/lahari21/GatorLibrary/assets/62760117/e37ba52f-7d70-42f4-888a-d681a3f4b947) width=50% height = 50% >
-
- A sample input.txt has also been uploaded.
