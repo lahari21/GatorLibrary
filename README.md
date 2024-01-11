@@ -21,6 +21,6 @@ made by the patrons.
 
 ### Input Example:
 > Input.txt contains input in the below format.
-![image](https://github.com/lahari21/GatorLibrary/assets/62760117/e37ba52f-7d70-42f4-888a-d681a3f4b947)
+ ![image](https://github.com/lahari21/GatorLibrary/assets/62760117/e37ba52f-7d70-42f4-888a-d681a3f4b947) width=50% height = 50% >
 
  A sample input.txt has also been uploaded.
