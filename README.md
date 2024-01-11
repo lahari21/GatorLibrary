@@ -20,22 +20,6 @@ made by the patrons.
 
 ### Input Example:
 > Input.txt contains input in the below format.
-Insert(5,50,120)
-Insert(4,30,60)
-Insert(7,40,90)
-Insert(3,20,40)
-Insert(1,10,20)
-Print(2)
-Insert(6,35,70)
-Insert(8,45,100)
-Print(3)
-Print(1,6)
-UpdateTrip(6,75)
-Insert(10,60,150)
-GetNextRide()
-CancelRide(5)
-UpdateTrip(3,22)
-Insert(9,55,110)
-GetNextRide()
+![image](https://github.com/lahari21/GatorLibrary/assets/62760117/3af64ff3-b8cc-461c-bca1-0187883a9471)
 
 > A sample input.txt has also been uploaded.
